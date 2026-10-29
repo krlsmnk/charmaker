@@ -1,0 +1,60 @@
+Fear,Courageous,Deficiency,Fearful,,3
+Fear,Courageous,Virtue,Courageous,,2
+Fear,Courageous,Excess,Reckless,,3
+Assertiveness,Assertive,Deficiency,Complacent,,3
+Assertiveness,Assertive,Virtue,Assertive,,2
+Assertiveness,Assertive,Excess,Combative,,3
+Empathy,Empathetic,Deficiency,Callous,,3
+Empathy,Empathetic,Virtue,Empathetic,Able to understand and share the feelings of others.,2
+Empathy,Empathetic,Excess,Anxious,,3
+Trust,Trusting,Deficiency,Distrusting,,3
+Trust,Trusting,Virtue,Trusting,Willing to rely on others with confidence.,2
+Trust,Trusting,Excess,Gullible,,3
+Loyalty,Loyal,Deficiency,Bondless,,3
+Loyalty,Loyal,Virtue,Loyal,Faithful to commitments or obligations.,2
+Loyalty,Loyal,Excess,Fanatic,,3
+Patience,Patient,Deficiency,Impulsive,,3
+Patience,Patient,Virtue,Patient,Able to endure delay or suffering without becoming annoyed.,2
+Patience,Patient,Excess,Dilatory,Slow to act; procrastinator.,3
+Drive,Determined,Deficiency,Apathetic,,3
+Drive,Determined,Virtue,Determined,Purposeful and unwilling to give up.,2
+Drive,Determined,Excess,Zealous,,3
+Honesty,Honest,Deficiency,Coddling,Sheltering; withholds information and actions that would cause others pain,3
+Honesty,Honest,Virtue,Honest,Upright and truthful.,2
+Honesty,Honest,Excess,Surly,Unfriendly and rude; cares not if their words or actions cause others pain.,3
+Ambition,Ambitious,Deficiency,Aimless,,3
+Ambition,Ambitious,Virtue,Ambitious,Driven to achieve.,2
+Ambition,Ambitious,Excess,Perfectionist,,3
+Open-mindedness,Open-minded,Deficiency,Cynical,,3
+Open-mindedness,Open-minded,Virtue,Open-minded,Willing to consider different ideas and perspectives.,2
+Open-mindedness,Open-minded,Excess,Traditionalist,,3
+Humility,Humble,Deficiency,Prideful,,3
+Humility,Humble,Virtue,Humble,Modest and respectful of others.,2
+Humility,Humble,Excess,Self-deprecating,,3
+Curiosity,Curious,Deficiency,Aloof,,3
+Curiosity,Curious,Virtue,Curious,Eager to learn.,2
+Curiosity,Curious,Excess,Intrusive,,3
+Independence,Independent,Deficiency,Subordinate,,3
+Independence,Independent,Virtue,Independent,Self-reliant and capable of acting without support.,2
+Independence,Independent,Excess,Isolated,,3
+Self-worth,Self-Valuing,Deficiency,Insecure,Does not feel deserving.,3
+Self-worth,Self-Valuing,Virtue,Self-Valuing,You believe you deserve what you have earned and that some others do not (because they haven't earned them, etc).,2
+Self-worth,Self-Valuing,Excess,Entitled,You strongly believe you are due more than you have, and more than others.,3
+Tolerance,Tolerant,Deficiency,Prejudiced,,3
+Tolerance,Tolerant,Virtue,Tolerant,Accepting of different views or behaviors.,2
+Tolerance,Tolerant,Excess,Pandering,,3
+Discretion,Discrete,Deficiency,Offensive,,3
+Discretion,Discrete,Virtue,Discrete,Careful in speech or action, especially to avoid offense.,2
+Discretion,Discrete,Excess,Ambiguous,,3
+Modesty,Modest,Deficiency,Shameless,,3
+Modesty,Modest,Virtue,Modest,Not boastful; moderate in estimation of one's abilities.,2
+Modesty,Modest,Excess,Bashful,,3
+Temperance,Temperate,Deficiency,Ascetic,The practice of severe self-discipline and abstention from all forms of indulgence.,3
+Temperance,Temperate,Virtue,Temperate,Not pained at the absence of what is pleasant and at their abstinence from it. Avoid excessive pleasure. Rarely feel pain or craving when these pleasures are absent.,2
+Temperance,Temperate,Excess,Hedonistic,Self-indulgent; gives in to pleasure constantly and often; pains desperately when it is missing.,3
+Generosity,Magnificent,Deficiency,Miserly,Hoards wealth and spends as little money as possible.,3
+Generosity,Magnificent,Virtue,Magnificent,While staying within means, spending of large sums on things and events that benefit numerous persons besides the spender.,2
+Generosity,Magnificent,Excess,Garishly Opulent,Spends large sums of wealth; sometimes above their means; to demonstrate opulence,3
+Anger,Tempered,Deficiency,Inirascible,Unable to be angered; unlikely to defend oneself; weathers insults and does not intervene when their friends are insulted,3
+Anger,Tempered,Virtue,Tempered,Angered over the 'proper' things; not easily provoked or goaded,2
+Anger,Tempered,Excess,Irascible,Easily angered; hot-headed and easily provoked,3
